@@ -5,6 +5,9 @@
 0.0.0.0 certs.apple.com
 0.0.0.0 appattest.apple.com
 0.0.0.0 vpp.itunes.apple.com
+
+// maybe might be new ones just a test
+
 0.0.0.0 albert.apple.com
 0.0.0.0 api-safari-ause1c.smoot.apple.com
 0.0.0.0 api-safari-ause2b.smoot.apple.com
